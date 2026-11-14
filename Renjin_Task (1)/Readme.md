@@ -13,3 +13,4 @@ A simple HTML webpage displaying Hello World!
 ## How to Run
 
 Open index.html in any web browser.
+### Github Page Deployment
