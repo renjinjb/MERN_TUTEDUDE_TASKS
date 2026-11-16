@@ -1,0 +1,38 @@
+body {
+  background-color: lightsalmon;
+}
+.head {
+  color: blue;
+}
+#bglime {
+  background-color: lightgreen;
+  font-size: 48px;
+}
+#bglime span {
+  color: red;
+}
+p {
+  color: white;
+}
+#para {
+  color: green;
+}
+#para span {
+  color: black;
+  font-size: 32px;
+}
+ul li:first-child a {
+  background-color: yellow;
+  color: black;
+}
+ul li:last-child a {
+  background-color: blue;
+  color: white;
+}
+
+ol li:nth-child(2) {
+  color: blue;
+}
+ol li:nth-child(3) {
+  color: red;
+}
